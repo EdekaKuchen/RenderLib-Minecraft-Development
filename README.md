@@ -1,4 +1,5 @@
 # RenderLib-Minecraft-Development
+It can be quite annoying to set-up RenderLib in a specific Minecraft version. This is why i chose to make this Repository.
 This repository holds ready to use Minecraft modding development kit's with pre-installed versions of RenderLib.
 
 # What is RenderLib?
