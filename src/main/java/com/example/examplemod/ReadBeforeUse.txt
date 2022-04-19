@@ -1,0 +1,10 @@
+If you want to load your models from the final mod jar file, you
+will have to change the loading method in RenderLib.ModelInfos and
+make sure that the JAR_NAME in ExampleMod is always the same as the
+name of your mod jar file.
+
+Use shadowJar for building!
+- Tasks/shadow/shadowJar
+The output file will be in build/libs
+
+There is a rendering code example in ExampleMod and a showcase world.
