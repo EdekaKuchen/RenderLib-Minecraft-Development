@@ -21,7 +21,7 @@ dependencies {
 
 repositories {
     repositories {
-        maven { url 'https://maven.explodingcreeper.me/' }
+        maven { url 'https://maven.explodingcreeper.me/releases' }
         maven {
             url "https://www.cursemaven.com"
         }
